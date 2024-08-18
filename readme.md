@@ -5,7 +5,7 @@ This repository contains Preliminary Security Reviews for two vulnerable mobile 
 - Identifying the file hashes of both applications using MobSF.  
 - Analyzing the reputation of these hashes using VirusTotal.  
 - Extracting the AndroGoat database password with evidence provided.  
-- Generating an iGoat-Swift report with recommendations for initiating a penetration test based on the findings.  
+- Generating an iGoat-Swift report with insights for initiating a penetration test.  
 
 ## Report Files
 - **[AndroGoat Report](androgoat.md)**

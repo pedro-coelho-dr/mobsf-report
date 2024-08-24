@@ -170,7 +170,7 @@ There are numerous other strings that may reveal additional attack vectors: `pas
 - **[VSCode](https://code.visualstudio.com/)**
 
 ## Author
-Report by: Pedro Coelho  
+Pedro Coelho  
 CESAR School  
 Specialization in Cybersecurity  
 Mobile Application Security Course  

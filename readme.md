@@ -21,7 +21,7 @@ This repository contains Preliminary Security Reviews for two vulnerable mobile 
 - **[VSCode](https://code.visualstudio.com/)**
 
 ## Author
-Report by: Pedro Coelho  
+Pedro Coelho  
 CESAR School  
 Specialization in Cybersecurity  
 Mobile Application Security Course  
